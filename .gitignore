@@ -5,3 +5,6 @@ obj/LifeCycleImport.csproj.nuget.cache
 obj/LifeCycleImport.csproj.nuget.g.props
 obj/LifeCycleImport.csproj.nuget.g.targets
 obj/project.assets.json
+/obj
+/.vs/LifeCycleImport/v16/Server/sqlite3
+/.vs/github/v16
