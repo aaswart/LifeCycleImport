@@ -14,7 +14,7 @@ namespace LifeCycleImport
         {
             Trace.WriteLine("Startt import LifeCycle data");
 
-            var pathFile = @"C:\temp\LC_export-1\LC_export.csv";
+            var pathFile = @"C:\temp\LC_export\LC_export.csv";
             var conString = @"
 Data Source=sql.sd.local;
 Initial Catalog=HrSwartDevelopment;
