@@ -15,7 +15,7 @@ namespace LifeCycleImport
             Trace.Listeners.Add(new TextWriterTraceListener(Console.Out));
             Trace.WriteLine("Start import LifeCycle data");
 
-            var pathFile = @"C:\temp\LC_export-1\LC_export.csv";
+            var pathFile = @"C:\temp\LC_export.csv";
             Trace.WriteLine($"File location:");
             Trace.WriteLine($"{pathFile}");
             
